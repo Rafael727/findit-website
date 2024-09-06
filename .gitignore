@@ -1,0 +1,19 @@
+# 忽略用户目录下的不相关文件和系统文件
+/AppData/
+/Contacts/
+/Documents/
+/Downloads/
+/Favorites/
+/Links/
+/Music/
+/NTUSER.DAT*
+/OneDrive/
+/Pictures/
+/Saved Games/
+/Searches/
+/Videos/
+/WPS Cloud Files/
+/WPSDrive/
+*.log
+*.dat
+*.ini
